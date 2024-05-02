@@ -1,1 +1,1 @@
-# Ineuron-Internship-Amazon-Sales-Project
+# Ineuron-Internship-Amazon-Sales-Data-Analysis-Project
