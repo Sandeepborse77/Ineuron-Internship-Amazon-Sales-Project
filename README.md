@@ -45,7 +45,13 @@ Find key metrics and factors and show the meaningful relationships between attri
 ## Dashboard
 * Watch the complete Dashboard video [Video Link]()
 * Check out the dashboard [Dashboard]()
-  
+
+## Documentation
+* [High Level Documnet](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/HLD%20Document.pdf)
+* [Low Level Document](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/LLD%20Document.pdf)
+* [Architecture](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/Architecture.pdf)
+* [Wireframe](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/Wireframe.pdf)
+* [Report]()
 
 
 
