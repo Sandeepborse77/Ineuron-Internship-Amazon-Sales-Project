@@ -52,7 +52,7 @@ Find key metrics and factors and show the meaningful relationships between attri
 * [Low Level Document](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/LLD%20Document.pdf)
 * [Architecture](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/Architecture.pdf)
 * [Wireframe](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/Wireframe.pdf)
-* [Report]()
+* [Report](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/Detailed%20Project%20Report.pdf)
 
 
 
