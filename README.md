@@ -43,8 +43,9 @@ Find key metrics and factors and show the meaningful relationships between attri
 >Exploratory data analysis is done to answer the listed questions and aims of this project.
 
 ## Dashboard
-* Watch the complete Dashboard video [Video Link]()
-* Check out the dashboard [Dashboard]()
+* Watch the complete Dashboard video [Video Link](https://www.youtube.com/watch?v=AXy5okhiFeY&t=1s)
+* Check out the dashboard [Dashboard](https://www.novypro.com/profile_about/sandeep-borase?Popup=memberProject&Data=1714909286862x790781689201478600
+)
 
 ## Documentation
 * [High Level Documnet](https://github.com/Sandeepborse77/Ineuron-Internship-Amazon-Sales-Project/blob/main/HLD%20Document.pdf)
