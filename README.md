@@ -4,7 +4,7 @@ This project aims to explore the Amazon Sales data to understand top performing 
 Here in this project, I developed a Power BI Dashboard to present insights into Amazon sales trends, highlighting region-specific and item-specific sales analyses across different years, quarters, months, and days. This comprehensive dashboard offers detailed insights into various sales trends.
 
 ## Purposes Of The Project
-The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+The major aim of thie project is to gain insight into the sales data of Amazon to understand the different factors that affect sales of the different branches.
 
 ## Problem Statement
 Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
